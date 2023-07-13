@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAdministrador xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Administrador>
+    <NombreUsuario>Jose</NombreUsuario>
+    <Contrasenia>js190</Contrasenia>
+    <Email>joseadmin@nbabet.com</Email>
+    <Tipo>Administrador</Tipo>
+  </Administrador>
+  <Administrador>
+    <NombreUsuario>Jose</NombreUsuario>
+    <Contrasenia>js190</Contrasenia>
+    <Email>joseadmin@nbabet.com</Email>
+    <Tipo>Administrador</Tipo>
+  </Administrador>
+  <Administrador>
+    <NombreUsuario>David</NombreUsuario>
+    <Contrasenia>d2190admin</Contrasenia>
+    <Email>davidadmin@nbabet.com</Email>
+    <Tipo>Administrador</Tipo>
+  </Administrador>
+  <Administrador>
+    <NombreUsuario>Jose</NombreUsuario>
+    <Contrasenia>js190</Contrasenia>
+    <Email>joseadmin@nbabet.com</Email>
+    <Tipo>Administrador</Tipo>
+  </Administrador>
+  <Administrador>
+    <NombreUsuario>David</NombreUsuario>
+    <Contrasenia>d2190admin</Contrasenia>
+    <Email>davidadmin@nbabet.com</Email>
+    <Tipo>Administrador</Tipo>
+  </Administrador>
+</ArrayOfAdministrador>

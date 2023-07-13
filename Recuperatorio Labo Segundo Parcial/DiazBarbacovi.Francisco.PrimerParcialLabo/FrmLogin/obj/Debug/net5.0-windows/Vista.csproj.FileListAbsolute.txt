@@ -1,0 +1,119 @@
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.exe
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.deps.json
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.dll
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.pdb
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Entidades.dll
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Entidades.pdb
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmLoginUsuarios.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmMenuPrincipal.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.dll
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\refint\Vista.dll
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.pdb
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\ref\Vista.dll
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestas.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmPerfilUsuario.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRegistrarNuevosUsuarios.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmAccionAdministrador.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmPartidosDatos.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmProde.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmLevantarSuspensionUsuario.resources
+D:\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestaJugadorEstrella.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.exe
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.deps.json
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.dll
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.pdb
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Entidades.dll
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Entidades.pdb
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmAccionAdministrador.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmLevantarSuspensionUsuario.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmLoginUsuarios.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmMenuPrincipal.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmPartidosDatos.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmPerfilUsuario.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmProde.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestaJugadoresEstrellaEste.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestaJugadorEstrella.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestas.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRegistrarNuevosUsuarios.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.dll
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\refint\Vista.dll
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.pdb
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+D:\DE PRUEBA TP1 LABO\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\ref\Vista.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.exe
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.deps.json
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Vista.pdb
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Entidades.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmAccionAdministrador.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmLevantarSuspensionUsuario.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmLoginUsuarios.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmMenuPrincipal.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmPartidosDatos.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmPerfilUsuario.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmProde.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestaJugadoresEstrellaEste.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestaJugadorEstrella.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRealizarApuestas.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmRegistrarNuevosUsuarios.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\refint\Vista.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.pdb
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\ref\Vista.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmInformes.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\PdfSharp.Charting.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\PdfSharp.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\de\PdfSharp.Charting.resources.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\de\PdfSharp.resources.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\obj\Debug\net5.0-windows\Vista.FrmTrivia.resources
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Aspose.PDF.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Recuperatorio Labo Segundo Parcial\DiazBarbacovi.Francisco.PrimerParcialLabo\FrmLogin\bin\Debug\net5.0-windows\Spire.Pdf.dll

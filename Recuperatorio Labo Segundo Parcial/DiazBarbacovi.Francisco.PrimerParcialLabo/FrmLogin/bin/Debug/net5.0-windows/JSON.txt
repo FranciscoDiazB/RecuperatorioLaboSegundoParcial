@@ -1,0 +1,44 @@
+{
+  "NombreJugador": "Melina",
+  "EquipoJugador": "Atlanta Hawks",
+  "CreditosApostados": 55,
+  "Fecha": "2023-07-13T01:07:17.1536202-03:00",
+  "IdPartido": 110
+}
+{
+  "NombreJugador": "Melina",
+  "EquipoJugador": "Philadelphia 76ers",
+  "CreditosApostados": 105,
+  "Fecha": "2023-07-13T01:08:40.9024382-03:00",
+  "IdPartido": 113
+}
+[
+  {
+    "NombreJugador": "Esteban",
+    "EquipoJugador": "LA Lakers",
+    "CreditosApostados": 75,
+    "Fecha": "2023-07-13T00:31:38.673",
+    "IdPartido": 114
+  },
+  {
+    "NombreJugador": "Esteban",
+    "EquipoJugador": "Philadelphia 76ers",
+    "CreditosApostados": 85,
+    "Fecha": "2023-07-13T00:31:50.687",
+    "IdPartido": 113
+  },
+  {
+    "NombreJugador": "Melina",
+    "EquipoJugador": "Atlanta Hawks",
+    "CreditosApostados": 55,
+    "Fecha": "2023-07-13T01:07:17.153",
+    "IdPartido": 110
+  },
+  {
+    "NombreJugador": "Melina",
+    "EquipoJugador": "Philadelphia 76ers",
+    "CreditosApostados": 105,
+    "Fecha": "2023-07-13T01:08:40.907",
+    "IdPartido": 113
+  }
+]

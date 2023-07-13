@@ -1,0 +1,72 @@
+[
+  {
+    "NombreJugador": "Esteban",
+    "EquipoGanador": "LA Lakers",
+    "CreditosApostados": 75,
+    "Fecha": "2023-07-13T00:31:38.673",
+    "IdPartido": 114
+  },
+  {
+    "NombreJugador": "Esteban",
+    "EquipoGanador": "Philadelphia 76ers",
+    "CreditosApostados": 85,
+    "Fecha": "2023-07-13T00:31:50.687",
+    "IdPartido": 113
+  },
+  {
+    "NombreJugador": "Melina",
+    "EquipoGanador": "Atlanta Hawks",
+    "CreditosApostados": 55,
+    "Fecha": "2023-07-13T01:07:17.153",
+    "IdPartido": 110
+  },
+  {
+    "NombreJugador": "Melina",
+    "EquipoGanador": "Philadelphia 76ers",
+    "CreditosApostados": 105,
+    "Fecha": "2023-07-13T01:08:40.907",
+    "IdPartido": 113
+  },
+  {
+    "NombreJugador": "Jorgeee",
+    "EquipoGanador": "Phoenix Suns",
+    "CreditosApostados": 200,
+    "Fecha": "2023-07-13T02:13:21.353",
+    "IdPartido": 115
+  },
+  {
+    "NombreJugador": "Fran",
+    "EquipoGanador": "LA Clippers",
+    "CreditosApostados": 55,
+    "Fecha": "2023-07-13T02:15:24.277",
+    "IdPartido": 115
+  },
+  {
+    "NombreJugador": "Fran",
+    "EquipoGanador": "Memphis Grizzles",
+    "CreditosApostados": 300,
+    "Fecha": "2023-07-13T02:16:24.92",
+    "IdPartido": 114
+  },
+  {
+    "NombreJugador": "JotaRP",
+    "EquipoGanador": "Boston Celtics",
+    "CreditosApostados": 67,
+    "Fecha": "2023-07-13T15:05:11.69",
+    "IdPartido": 116
+  },
+  {
+    "NombreJugador": "Jorgeee",
+    "EquipoGanador": "LA Lakers",
+    "CreditosApostados": 100,
+    "Fecha": "2023-07-13T02:13:28.997",
+    "IdPartido": 114
+  },
+  {
+    "NombreJugador": "Jorgeee",
+    "EquipoGanador": "Philadelphia 76ers",
+    "CreditosApostados": 65,
+    "Fecha": "2023-07-13T02:13:34.847",
+    "IdPartido": 113
+  }
+]

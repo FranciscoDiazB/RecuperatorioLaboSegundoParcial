@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfApuesta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Apuesta>
+    <NombreJugador>Esteban</NombreJugador>
+    <EquipoGanador>LA Lakers</EquipoGanador>
+    <CreditosApostados>75</CreditosApostados>
+    <Fecha>2023-07-13T00:31:38.673</Fecha>
+    <IdPartido>114</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Esteban</NombreJugador>
+    <EquipoGanador>Philadelphia 76ers</EquipoGanador>
+    <CreditosApostados>85</CreditosApostados>
+    <Fecha>2023-07-13T00:31:50.687</Fecha>
+    <IdPartido>113</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Melina</NombreJugador>
+    <EquipoGanador>Atlanta Hawks</EquipoGanador>
+    <CreditosApostados>55</CreditosApostados>
+    <Fecha>2023-07-13T01:07:17.153</Fecha>
+    <IdPartido>110</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Melina</NombreJugador>
+    <EquipoGanador>Philadelphia 76ers</EquipoGanador>
+    <CreditosApostados>105</CreditosApostados>
+    <Fecha>2023-07-13T01:08:40.907</Fecha>
+    <IdPartido>113</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Jorgeee</NombreJugador>
+    <EquipoGanador>Phoenix Suns</EquipoGanador>
+    <CreditosApostados>200</CreditosApostados>
+    <Fecha>2023-07-13T02:13:21.353</Fecha>
+    <IdPartido>115</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Fran</NombreJugador>
+    <EquipoGanador>LA Clippers</EquipoGanador>
+    <CreditosApostados>55</CreditosApostados>
+    <Fecha>2023-07-13T02:15:24.277</Fecha>
+    <IdPartido>115</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Fran</NombreJugador>
+    <EquipoGanador>Memphis Grizzles</EquipoGanador>
+    <CreditosApostados>300</CreditosApostados>
+    <Fecha>2023-07-13T02:16:24.92</Fecha>
+    <IdPartido>114</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>JotaRP</NombreJugador>
+    <EquipoGanador>Boston Celtics</EquipoGanador>
+    <CreditosApostados>67</CreditosApostados>
+    <Fecha>2023-07-13T15:05:11.69</Fecha>
+    <IdPartido>116</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Jorgeee</NombreJugador>
+    <EquipoGanador>LA Lakers</EquipoGanador>
+    <CreditosApostados>100</CreditosApostados>
+    <Fecha>2023-07-13T02:13:28.997</Fecha>
+    <IdPartido>114</IdPartido>
+  </Apuesta>
+  <Apuesta>
+    <NombreJugador>Jorgeee</NombreJugador>
+    <EquipoGanador>Philadelphia 76ers</EquipoGanador>
+    <CreditosApostados>65</CreditosApostados>
+    <Fecha>2023-07-13T02:13:34.847</Fecha>
+    <IdPartido>113</IdPartido>
+  </Apuesta>
+</ArrayOfApuesta>

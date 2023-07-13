@@ -1,0 +1,123 @@
+El usuario con mail: 'frand@hotmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Milwaukee Bucks' en el partido con ID: 101 en la fecha 22/05/2023 1:12:56
+
+El usuario con mail: 'frand@hotmail.com' realizo una apuesta de 135 creditos siendo ganador el equipo 'Miami Heat' en el partido con ID: 101 en la fecha 22/05/2023 1:13:42
+
+El usuario con mail: 'melc@gmail.com' realizo una apuesta de 77 creditos siendo ganador el equipo 'Atlanta Hawks' en el partido con ID: 104 en la fecha 22/05/2023 1:25:43
+
+El usuario con mail: 'melc@gmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Boston Celtics' en el partido con ID: 104 en la fecha 22/05/2023 1:28:39
+
+El usuario con mail: 'melc@gmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'LA Clippers' en el partido con ID: 100 en la fecha 22/05/2023 1:28:46
+
+El usuario con mail: 'melc@gmail.com' realizo una apuesta de 115 creditos siendo ganador el equipo 'Cleveland Cavaliers' en el partido con ID: 102 en la fecha 22/05/2023 1:31:13
+
+El usuario con mail: 'frand@hotmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Philadelphia 76ers' en el partido con ID: 103 en la fecha 22/05/2023 1:33:38
+
+El usuario con mail: 'melc@gmail.com' realizo una apuesta de 50 creditos siendo ganador el equipo 'Brooklyn Nets' en el partido con ID: 103 en la fecha 22/05/2023 1:34:56
+
+El usuario con mail: 'este97@gmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Milwaukee Bucks' en el partido con ID: 101 en la fecha 22/05/2023 1:38:51
+
+El usuario con mail: 'este97@gmail.com' realizo una apuesta de 74 creditos siendo ganador el equipo 'Brooklyn Nets' en el partido con ID: 103 en la fecha 22/05/2023 1:39:56
+
+El usuario con mail: 'frand@hotmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Philadelphia 76ers' en el partido con ID: 103 en la fecha 23/05/2023 0:32:47
+
+El usuario con mail: 'frand@hotmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Brooklyn Nets' en el partido con ID: 103 en la fecha 23/05/2023 1:23:03
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Milwaukee Bucks' en el partido con ID: 101 en la fecha 23/05/2023 11:45:31
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta de 50 creditos siendo ganador el equipo 'Philadelphia 76ers' en el partido con ID: 103 en la fecha 23/05/2023 11:48:02
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'Atlanta Hawks' en el partido con ID: 104 en la fecha 23/05/2023 11:48:54
+
+El usuario con mail: 'francotorino@hotmail.com' realizo una apuesta de 155 creditos siendo ganador el equipo 'Philadelphia 76ers' en el partido con ID: 103 en la fecha 23/05/2023 11:53:56
+
+El usuario con mail: 'cl05holamundo@gmail.com' realizo una apuesta de 155 creditos siendo ganador el equipo 'LA Lakers' en el partido con ID: 108 en la fecha 23/05/2023 12:24:23
+
+El usuario con mail: 'cl05holamundo@gmail.com' realizo una apuesta de 110 creditos siendo ganador el equipo 'Denver Nuggets' en el partido con ID: 105 en la fecha 23/05/2023 12:25:56
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta de 50 creditos siendo ganador el equipo 'Phoenix Suns' en el partido con ID: 106 en la fecha 23/05/2023 14:51:50
+
+El usuario con mail: 'meldelrey02@hotmail.com' realizo una apuestas a los siguientes jugadores: Cada apuesta fueron 25 creditos:
+Dearon Fox va a anotar mas puntos que Stephen Curry
+Lebron James va a anotar mas puntos que Ja Morant
+Karl-Anthony Towns va a anotar mas puntos que Nikola Jokic
+Kevin Durant va a anotar mas puntos que Kawhi Leonard
+
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta de 125 creditos siendo ganador el equipo 'Denver Nuggets' en el partido con ID: 109 en la fecha 23/05/2023 16:27:46
+
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuestas a los siguientes jugadores: Cada apuesta fueron 25 creditos:
+Lebron James va a anotar mas puntos que Ja Morant
+
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta de 55 creditos siendo ganador el equipo 'LA Lakers' en el partido con ID: 108 en la fecha 23/05/2023 16:31:58
+
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuestas a los siguientes jugadores: Cada apuesta fueron 25 creditos:
+Karl-Anthony Towns va a anotar mas puntos que Nikola Jokic
+Kevin Durant va a anotar mas puntos que Kawhi Leonard
+
+
+El usuario con mail: 'meldelrey02@hotmail.com' realizo una apuesta en la fecha 23/05/2023 21:23:20. 
+Cada apuesta fueron 25 creditos:
+Karl-Anthony Towns va a anotar mas puntos que Nikola Jokic
+Kevin Durant va a anotar mas puntos que Kawhi Leonard
+
+
+El usuario con mail: 'meldelrey02@hotmail.com' realizo una apuesta en la fecha 23/05/2023 21:23:46. 
+Cada apuesta fueron 25 creditos:
+Giannis Antetokuompo va a anotar mas puntos que Jimmy Butler
+Jayson Tatum va a anotar mas puntos que Trae Young
+Joel Embid va a anotar mas puntos que Mikal Bridges
+Jalen Brunson va a anotar mas puntos que Donovan Mitchell
+
+
+El usuario con mail: 'meldelrey02@hotmail.com' realizo una apuesta en la fecha 23/05/2023 21:25:14. 
+Cada apuesta fueron 25 creditos:
+Giannis Antetokuompo va a anotar mas puntos que Jimmy Butler
+
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta en la fecha 23/05/2023 21:27:05. 
+Cada apuesta fueron 25 creditos:
+Stephen Curry va a anotar mas puntos que Dearon Fox
+Lebron James va a anotar mas puntos que Ja Morant
+Nikola Jokic va a anotar mas puntos que Karl-Anthony Towns
+
+
+El usuario con mail: 'frandb27@gmail.com' realizo una apuesta en la fecha 23/05/2023 21:27:34. 
+Cada apuesta fueron 25 creditos:
+Jimmy Butler va a anotar mas puntos que Giannis Antetokuompo
+Jayson Tatum va a anotar mas puntos que Trae Young
+Joel Embid va a anotar mas puntos que Mikal Bridges
+
+
+El usuario con mail: 'meldelrey02@hotmail.com' realizo una apuesta en la fecha 23/05/2023 21:30:01. 
+Cada apuesta fueron 25 creditos:
+2. Lebron James va a anotar mas puntos que Ja Morant
+3. Nikola Jokic va a anotar mas puntos que Karl-Anthony Towns
+
+
+El usuario con mail: 'melbrisa@hotmail.com' realizo una apuesta en la fecha 12/07/2023 23:25:22. 
+Cada apuesta fueron 25 creditos:
+3. Karl-Anthony Towns va a anotar mas puntos que Nikola Jokic
+4. Kevin Durant va a anotar mas puntos que Kawhi Leonard
+
+
+El usuario con mail: 'jotasion127@gmail.com' realizo una apuesta en la fecha 12/07/2023 23:41:24. 
+Cada apuesta fueron 25 creditos:
+3. Nikola Jokic va a anotar mas puntos que Karl-Anthony Towns
+4. Kawhi Leonard va a anotar mas puntos que Kevin Durant
+
+
+El usuario con mail: 'jotasion127@gmail.com' realizo una apuesta en la fecha 13/07/2023 15:04:36. 
+Cada apuesta fueron 25 creditos:
+2. Lebron James va a anotar mas puntos que Ja Morant
+3. Karl-Anthony Towns va a anotar mas puntos que Nikola Jokic
+4. Kevin Durant va a anotar mas puntos que Kawhi Leonard
+
+
+El usuario con mail: 'jotasion127@gmail.com' realizo una apuesta en la fecha 13/07/2023 15:04:42. 
+Cada apuesta fueron 25 creditos:
+1. Jimmy Butler va a anotar mas puntos que Giannis Antetokuompo
+
+

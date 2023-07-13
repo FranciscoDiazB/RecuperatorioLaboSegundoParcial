@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuarioJugador xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsuarioJugador>
+    <NombreUsuario>Esteban</NombreUsuario>
+    <Contrasenia>este1234</Contrasenia>
+    <Email>estebanquito@gmail.com</Email>
+    <Tipo>Jugador</Tipo>
+    <TipoIngreso>Player</TipoIngreso>
+    <CreditosApuestas>0</CreditosApuestas>
+    <EstaBan>false</EstaBan>
+    <NumeroTarjeta>6890165399012398</NumeroTarjeta>
+    <TipoTarjeta>Master Card</TipoTarjeta>
+    <Id>0</Id>
+  </UsuarioJugador>
+  <UsuarioJugador>
+    <NombreUsuario>Esteban</NombreUsuario>
+    <Contrasenia>123</Contrasenia>
+    <Email>213213@gmail.com</Email>
+    <Tipo>Jugador</Tipo>
+    <CreditosApuestas>0</CreditosApuestas>
+    <TarjetaPago>
+      <TipoDeTarjeta>Visa</TipoDeTarjeta>
+      <NumeroDeTarjeta>2145121351321321</NumeroDeTarjeta>
+    </TarjetaPago>
+    <EstaBan>false</EstaBan>
+    <Id>0</Id>
+  </UsuarioJugador>
+</ArrayOfUsuarioJugador>
