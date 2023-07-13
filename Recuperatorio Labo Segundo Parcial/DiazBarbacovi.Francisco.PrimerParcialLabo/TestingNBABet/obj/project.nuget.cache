@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "upJB65YkxAbTE7oi8UhZyD+qTEqH/WkfC5MMoMY44iCF5jTtPMCX77Ixt59imAHQ2zm/HdaYxBm/wtUUOgP+bQ==",
+  "dgSpecHash": "xu7exlLif49e1vezsvOTNayDcEOgDsBxvq0lFkb4wI4/upaXK+jzKry2XdypQbK8M2LHe3HHiqEjhixMdtIi2Q==",
   "success": true,
-  "projectFilePath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\TestingNBABet.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\TestingNBABet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\aspose.pdf\\23.6.0\\aspose.pdf.23.6.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

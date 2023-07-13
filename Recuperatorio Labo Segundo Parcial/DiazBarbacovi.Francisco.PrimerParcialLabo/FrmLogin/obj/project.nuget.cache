@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kbgescU5Hcd2F844s07WNL9xTbH0I+bR6yWIgx/RGGd8ejm/HsqfVIvb3xjHD/wAxKBH5MR41Vo2vF3kGsNYXw==",
+  "dgSpecHash": "k6u7wPo8kk+a1jZ5WltzIbpDLv/ddctvKhXqctD+EhtbjAqg7SNMR84VygAIVjskHNWTdk+TqsaPtrx01zv/vQ==",
   "success": true,
-  "projectFilePath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\Vista.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\Vista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\aspose.pdf\\23.6.0\\aspose.pdf.23.6.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",

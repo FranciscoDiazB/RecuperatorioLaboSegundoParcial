@@ -4237,11 +4237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7499,11 +7499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\TestingNBABet.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\TestingNBABet.csproj",
       "projectName": "TestingNBABet",
-      "projectPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\TestingNBABet.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\TestingNBABet.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\TestingNBABet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7520,8 +7520,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj": {
-              "projectPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj"
             }
           }
         }

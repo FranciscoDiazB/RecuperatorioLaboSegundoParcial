@@ -17,18 +17,17 @@ namespace Vista
     {
         private UsuarioJugador usuario;
         private FrmMenuPrincipal menu;
-        private List<UsuarioJugador> jugadores;
+
 
         public FrmPerfilUsuario()
         {
             InitializeComponent();
         }
 
-        public FrmPerfilUsuario(UsuarioJugador user, FrmMenuPrincipal menuPrincipal, List<UsuarioJugador> usuarioJugadors) : this()
+        public FrmPerfilUsuario(UsuarioJugador user, FrmMenuPrincipal menuPrincipal) : this()
         {
             usuario = user;
             this.menu = menuPrincipal;
-            this.jugadores = usuarioJugadors;
         }
 
         private void FrmPerfilUsuario_Load(object sender, EventArgs e)

@@ -4258,11 +4258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\Vista.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\Vista.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\FrmLogin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4279,8 +4279,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj": {
-              "projectPath": "D:\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\RecuperatorioLaboSegundoParcial\\Recuperatorio Labo Segundo Parcial\\DiazBarbacovi.Francisco.PrimerParcialLabo\\Entidades\\Entidades.csproj"
             }
           }
         }

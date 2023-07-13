@@ -80,7 +80,7 @@ namespace Vista
 
         private void btnPerfilUsuario_Click(object sender, EventArgs e)
         {
-            FrmPerfilUsuario frmPerfilUsuario = new FrmPerfilUsuario(nuevoUsuario, this, usuariosJugadorSistemas);
+            FrmPerfilUsuario frmPerfilUsuario = new FrmPerfilUsuario(nuevoUsuario, this);
 
             frmPerfilUsuario.Show();
         }
